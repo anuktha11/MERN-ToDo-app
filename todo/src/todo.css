@@ -1,0 +1,19 @@
+ .row{
+    background-color: rgb(34, 34, 33);
+}
+.row1{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-color: black;
+    
+}
+.form-group{
+    font-style: italic;
+}
+li{
+    border-style: double;
+}
+h4{
+    font-style:normal;
+}
